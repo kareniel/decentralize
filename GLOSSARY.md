@@ -1,1 +1,3 @@
-# desintermediation
+# Glossary
+
+## desintermediation

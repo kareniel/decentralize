@@ -1,0 +1,4 @@
+# Algorithms
+
+- hash cash
+- retargeting
