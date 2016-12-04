@@ -1,45 +1,27 @@
-# peer-to-peer, offline, and decentralized
+# String.prototype.charCodeAt()
 
-* cryptography
-  * hashing
+index -> UTF-16 code unit value at given index (0 to 65535)
 
-* data structures
-  * bht
-  * append-only logs
 
-* architecture
-  * notion of anarchitecture
-  * kappa, event sourcing
+# Blockchain
 
-* networking
-  * dns
-  p2p
-  gossip protocol
+data structures
+- blocks
+- transactions
+- merkle trees
 
-* logic
-  * contracts
+algorithms
+- hash cash
+- retargeting
 
-* blockchain
-  * ethereum
+peer discovery
+- getaddr
+  send up to 2500 addresses with timestamps in the last 3 hours
+- getMyExternalIP
+  - 91.198.22.70 (checkip.dyndns.org)
+  - advertise to any connected nodes
 
-* digital identity
+- DNS seeding
 
-* storage
-  * content addressing
-  * leveldb
 
-* governance
-
-* future
-
-* values
-  * voluntary simplicity and communal sharing
-  * commons
-
-* primitives
-  * webrtc-swarm
-  * hyperlog
-  * hypercore
-  * hyperdrive
-  * webtorrent/torrent-stream
-  * ipfs
+- IP addresses of well known nodes.
