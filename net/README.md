@@ -1,6 +1,7 @@
 # Networking
 
 * dns
+* mesh networking
 * gossip protocol
 * webrtc
 * torrent

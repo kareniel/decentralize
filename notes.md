@@ -1,8 +1,16 @@
+# next
+
+the common good
+digital commons
+wicked problems
+
+
+
 # String.prototype.charCodeAt()
 
 index -> UTF-16 code unit value at given index (0 to 65535)
 
-# peer-to-peer, offline, and decentralized
+# peer-to-peer networks and distributed technologies
 
 * architecture
   * notion of anarchitecture
